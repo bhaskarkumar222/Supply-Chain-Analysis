@@ -3,6 +3,12 @@
 ##  Project Overview
 AtliQ Mart is growing FMCG manufacturer headquartered in Gujarat, India is facing customer retention challenges due to service issues related to delayed or incomplete deliveries. The Supply Chain Analytics team aims to improve customer satisfaction by tracking key On-Time (OT), In-Full (IF) and On-Time In-Full (OTIF) delivery metrics on a daily basis.
 
+## Tools & Skills Used
+- Power BI (Data Visualization)
+- DAX Measure
+- KPI, Matrix, Charts
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiOGU1M2FlZTItNGMxOC00ZjVlLThmOWQtMzM5NzYwNTgyNjk2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">View Dashboard</a>
+
 ## SITUATION
 AtliQ Mart operates in Surat, Ahmedabad, and Vadodara and plans to expand to other metros/Tier 1 cities in the next 2 years. However, several key customers did not renew their annual contracts due to poor service levels, leading to potential revenue loss. Delayed or incomplete deliveries have been a major issue.
 
@@ -23,3 +29,14 @@ To address this problem the management requires real-time monitoring of supply c
 * **Advanced KPI Computation:** Implement LIFR and VOFR calculations to assess order fulfillment efficiency.
 * **Visualization Enhancements:** Use sparklines, bar charts, matrix table which include Productd and customer and dynamic filters to make data interactive and insightful.
 
+# Dashboard 1
+
+![image alt](https://github.com/bhaskarkumar222/Supply-Chain-Analysis/blob/779ee992ff49827e2c0d5c140a03e10627154e26/Dashboard%201.png)
+
+# Dashboard 2
+
+![image alt](https://github.com/bhaskarkumar222/Supply-Chain-Analysis/blob/779ee992ff49827e2c0d5c140a03e10627154e26/Dashboard%202.png)
+
+# Dashboard 3
+
+![image alt](https://github.com/bhaskarkumar222/Supply-Chain-Analysis/blob/779ee992ff49827e2c0d5c140a03e10627154e26/Dashboard%203.png)
