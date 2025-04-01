@@ -40,3 +40,14 @@ To address this problem the management requires real-time monitoring of supply c
 # Dashboard 3
 
 ![image alt](https://github.com/bhaskarkumar222/Supply-Chain-Analysis/blob/779ee992ff49827e2c0d5c140a03e10627154e26/Dashboard%203.png)
+
+
+## Result and Insights
+* All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
+* On an average, orders are delayed 0.42 days from the agreed date of delivery
+* Dairy products show both high undelivered quantities and low performance.
+* May had the highest delivered quantity, while August had the lowest.
+* There is a huge gap in IF% for most of the customers. Is it because of less production?
+* There is no noticeable improvements in any of the key metrics in the last few months.
+
+
